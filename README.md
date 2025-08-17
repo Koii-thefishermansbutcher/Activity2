@@ -1,2 +1,1 @@
-# Activity2
-Information Logger by Koi (School Assignment) 
+# Adrian's and Annexis ITE Programming Assignments (School Assignments) 
