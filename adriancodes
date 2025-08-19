@@ -4,7 +4,7 @@ address = input("Where are you from: ")
 email = input("What is your email address: ") 
 phonenumber = int(input("What is your phone number: ")) 
 height = float(input("How tall are you: ")) 
-weight = in(input("What is your weight: ")) 
+weight = int(input("What is your weight: ")) 
 
 print("Hello! " +name) 
 print("You are "+str(age) +" years old") 
